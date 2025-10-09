@@ -1,0 +1,7 @@
+# Python/Jupyter related
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS related
+.DS_Store
